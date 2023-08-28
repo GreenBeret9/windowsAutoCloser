@@ -16,15 +16,14 @@ https://www.youtube.com/watch?v=RewxjHw8310&t=147s&ab_channel=AdityaPaiThon\
 3. open cmd and run "pip install pytesseract"
 
 # run the project
-1. cmd then go to your script folder with "cd path/to/the/script/folder"
+1. open cmd then go to your script folder with "cd path/to/the/script/folder"
 
 2. set up your virtual environement:
 
 python -m venv venv
 
-3. activate it:
-
-For Windows run ".\venv\Scripts\activate"
+3. activate it :
+for Windows run ".\venv\Scripts\activate"
 run "source venv/bin/activate" (not for windows)
 
 
