@@ -23,8 +23,8 @@ https://www.youtube.com/watch?v=RewxjHw8310&t=147s&ab_channel=AdityaPaiThon\
 python -m venv venv
 
 3. activate it :
-for Windows run ".\venv\Scripts\activate"
-run "source venv/bin/activate" (not for windows)
+(for Windows) run ".\venv\Scripts\activate"
+(for Linux) run "source venv/bin/activate" 
 
 
 4. pip install -r requirements.txt
