@@ -1,15 +1,15 @@
-# windowsAutoCloser
-IMPORTANT TO DO FIRST:
-Download, install and add Python to environnment variables:
-here's a quick 2min video on how to do that:
+# windowsAutoCloser\
+IMPORTANT TO DO FIRST:\
+Download, install and add Python to environnment variables:\
+here's a quick 2min video on how to do that:\
 https://www.youtube.com/watch?v=6mP1bf03xz0&t=63s&ab_channel=TheTechFlow
 
 
-for tesseract do the following: 
-1. Install tesseract using windows installer available at: https://github.com/UB-Mannheim/tesseract/wiki
-2. add the installation folder path to the environment variable:
-here's a 3min video on how to do that:
-https://www.youtube.com/watch?v=RewxjHw8310&t=147s&ab_channel=AdityaPaiThon
+for tesseract do the following:\
+1. Install tesseract using windows installer available at: https://github.com/UB-Mannheim/tesseract/wiki\
+2. add the installation folder path to the environment variable:\
+here's a 3min video on how to do that:\
+https://www.youtube.com/watch?v=RewxjHw8310&t=147s&ab_channel=AdityaPaiThon\
 
 3. open cmd and run "pip install pytesseract"
 
