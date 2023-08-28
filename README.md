@@ -1,30 +1,29 @@
 # windowsAutoCloser
 IMPORTANT TO DO FIRST:
-Download and install Python:
-1. download python: open cmd and run "python" it'll be automatically downloaded
-2. 
-
+Download, install and add Python to environnment variables:
+here's a quick 2min video on how to do that:
+https://www.youtube.com/watch?v=6mP1bf03xz0&t=63s&ab_channel=TheTechFlow
 
 
 for tesseract do the following: 
 1. Install tesseract using windows installer available at: https://github.com/UB-Mannheim/tesseract/wiki
+2. add the installation folder path to the environment variable:
+here's a 3min video on how to do that:
+https://www.youtube.com/watch?v=RewxjHw8310&t=147s&ab_channel=AdityaPaiThon
 
-2. when doing the installation, add the path to the environment variables.
-Note the tesseract path from the installation. Default installation path at the time of this edit was:
-C:\Users\USER\AppData\Local\Tesseract-OCR. It may change so please check the installation path.
+3. open cmd and run "pip install pytesseract"
 
-3. pip install pytesseract
-
-to run the project, first open your script folder with "cd path/to/the/script/folder"
+to run the project, first open cmd then go to your script folder with "cd path/to/the/script/folder"
 
 set up your virtual environement:
 python -m venv venv
 
 then activate it:
-run "source venv/bin/activate" (not for windows)
 For Windows run ".\venv\Scripts\activate"
+run "source venv/bin/activate" (not for windows)
 
-pip install -r requirements.txt
+
+4. pip install -r requirements.txt
 
 run "python windowsAutoCloser.py"
 
