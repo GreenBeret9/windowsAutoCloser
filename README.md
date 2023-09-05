@@ -8,7 +8,7 @@ Download, install and add Python to environnment variables:
 
 
 SECOND IMPORTANT TO DO:
-1. Install tesseract using Windows installer available at: https://github.com/UB-Mannheim/tesseract/wiki\
+1. Install tesseract using Windows installer available at: https://github.com/UB-Mannheim/tesseract/wiki
 
 2. add the installation folder path to the environment variable:
 
